@@ -6,3 +6,5 @@ Database => MongoDb
 
 
 ![Ekran görüntüsü 2024-05-13 210634](https://github.com/akingorenlibrary/Word-game-mobile-application/assets/91248649/b9090d69-435c-4b6d-ac18-c423cb88baf7)
+
+![Ekran görüntüsü 2024-05-13 210736](https://github.com/akingorenlibrary/Word-game-mobile-application/assets/91248649/b6a8fa43-ce84-4980-a173-86bba0450850)
