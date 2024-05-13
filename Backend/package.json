@@ -1,0 +1,19 @@
+{
+  "name": "kelimeoyunubackend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "mongoose": "^8.2.2",
+    "mssql": "^10.0.2",
+    "nodemon": "^3.1.0"
+  },
+  "description": ""
+}
